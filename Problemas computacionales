@@ -1,4 +1,5 @@
 # ==================== EJERCICIO C2: OSCILACIONES DE RABI ====================
+#Google colab
 #Nuevo problema
 
 import numpy as np
